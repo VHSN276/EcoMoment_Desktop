@@ -37,11 +37,11 @@ Enquanto a versão Mobile/Web é focada nos usuários finais, esta versão foi p
 - **C#**  
 - **.NET Framework / .NET Core** (especificar versão usada)  
 - **Visual Studio** (edição “roxinha”)  
-- **Banco de Dados** (SQL Server ou outro que você usar)
+- **Banco de Dados** (MySQL)
 
 ---
 
 ## 🚀 Como Executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-repositorio/ecomoment-desktop.git
+   git clone https://github.com/VHSN276/EcoMoment_Desktop.git
